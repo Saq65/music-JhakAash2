@@ -20,7 +20,7 @@ function DarkMode(a) {
     if(e.checked==true){
        const ty= document.querySelectorAll('#hindi')
         for(u=0;u<ty.length;u++){
-            ty[u].style.background='black'
+            ty[u].style.background='#1D1D1D '
         }
     }
     if(e.checked==true){
