@@ -94,4 +94,8 @@ function DarkMode(a) {
      }else{
         document.getElementById('cont').style.color=''
      }
-} 
+if(e.checked==true){
+document.getElementById('nav1').style.Visibility='hidden'
+}else{document.getElementById('nav1').style.Visibility='visible'
+}
+}  
