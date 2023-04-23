@@ -8,7 +8,7 @@ function DarkMode(a) {
     if (e.checked == true) {
         const rt = document.querySelectorAll('div');
         for (i = 0; i < rt.length; i++) {
-            rt[i].style.background=' #1D1D1D '
+            rt[i].style.background='black'
         }
         
     }else{
