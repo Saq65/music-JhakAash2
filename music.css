@@ -169,6 +169,8 @@ Background-color:#1D1D1D;
                 font-weight: 500;
                 font-family: cursive;
                 cursor: pointer;
+                gap:5px;
+                Margin:10px;
             }
 
             .hbtn {
