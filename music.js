@@ -78,7 +78,7 @@ function DarkMode(a) {
         elm[u].style.background='black';
         elm[u].style.color='white'
         elm[u].style.boxShadow='2px 1px 1px white inset'
-        elm[u].style.border='1px outset white'
+       // elm[u].style.border='1px outset white'
        }
     }else{  
         const elm= document.querySelectorAll('li');
