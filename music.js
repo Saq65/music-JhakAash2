@@ -69,7 +69,7 @@ function DarkMode(a) {
         document.getElementById('d-m').innerHTML='light-mode'
         document.getElementById('d-m').style.color='white'
     }else{
-        document.getElementById('d-m').innerHTML='dark-mode'
+        document.getElementById('d-m').innerHTML='Dark-mode'
         document.getElementById('d-m').style.color='black'      
     }
     if(e.checked==true){  
