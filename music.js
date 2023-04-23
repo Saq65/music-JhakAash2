@@ -70,6 +70,6 @@ function DarkMode(a) {
         document.getElementById('d-m').style.color='black'
     }
 if(e.checked === true){
-document.getElementById('khud').style.background='black'
-}
+document.getElementById('khud').style.boxShadow='10px 10px 10px khaki inset'
+
 } 
