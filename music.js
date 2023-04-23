@@ -95,7 +95,8 @@ function DarkMode(a) {
         document.getElementById('cont').style.color=''
      }
 if(e.checked==true){
-document.getElementById('nav1').style.Visibility='hidden'
-}else{document.getElementById('nav1').style.Visibility=''
+document.getElementById('nav1').style.visibility='hidden'
+}
+else{document.getElementById('nav1').style.visibility=''
 }
 }  
