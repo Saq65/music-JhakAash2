@@ -78,7 +78,7 @@
         elm[u].style.background='#121212 ';
         elm[u].style.color='white'
         elm[u].style.boxShadow='2px 1px 1px white inset'
-       // elm[u].style.fontfamily='arial'
+        elm[u].style.fontfamily='arial'
        }
     }else{  
         const elm= document.querySelectorAll('li');
