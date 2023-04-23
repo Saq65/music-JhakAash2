@@ -33,7 +33,7 @@
         document.getElementById('top').style.background='#272727'
      }
     if(e.checked==true){
-        document.getElementById('hindi-s').style.background='272727 '
+        document.getElementById('hindi-s').style.background='#272727 '
         document.getElementById('hindi-s').style.color='#ffffff'
         document.getElementById('hindi-s').style.textShadow='none'
         document.getElementById('hindi-s').style.fontSize='bold'
