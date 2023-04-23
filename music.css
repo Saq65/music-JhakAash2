@@ -17,6 +17,9 @@
             height: 45px;
             border: 2px inset black;
         }
+       Container{
+        Overflow:hidden
+}
 
         h1 {
             font-weight: 400;
