@@ -26,14 +26,14 @@ function DarkMode(a) {
     if(e.checked==true){
         const tr= document.querySelectorAll('.hbtn')
          for(o=0;o<tr.length;o++){
-             tr[o].style.background='black'
+             tr[o].style.background=' #1D1D1D' 
          }
      }
      if(e.checked==true){
         document.getElementById('top').style.background='black'
      }
     if(e.checked==true){
-        document.getElementById('hindi-s').style.background='black'
+        document.getElementById('hindi-s').style.background=' #1D1D1D '
         document.getElementById('hindi-s').style.color='#ffffff'
         document.getElementById('hindi-s').style.textShadow='none'
         document.getElementById('hindi-s').style.fontSize='bold'
@@ -44,7 +44,7 @@ function DarkMode(a) {
         document.getElementById('hindi-s').style.fontSize=''
     }
     if(e.checked==true){
-        document.getElementById('eng-s').style.background='black'
+        document.getElementById('eng-s').style.background=' #1D1D1D '
         document.getElementById('eng-s').style.color='#ffffff'
         document.getElementById('eng-s').style.textShadow='none'
         document.getElementById('eng-s').style.fontSize='bold'
@@ -55,7 +55,7 @@ function DarkMode(a) {
         document.getElementById('eng-s').style.fontSize=''
     }
     if(e.checked==true){
-        document.getElementById('punjabi-s').style.background='black'
+        document.getElementById('punjabi-s').style.background=' #1D1D1D '
         document.getElementById('punjabi-s').style.color='#ffffff'
         document.getElementById('punjabi-s').style.textShadow='none'
         document.getElementById('punjabi-s').style.fontSize='bold'
