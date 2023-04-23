@@ -30,10 +30,10 @@
          }
      }
      if(e.checked==true){
-        document.getElementById('top').style.background='#000000'
+        document.getElementById('top').style.background='#272727'
      }
     if(e.checked==true){
-        document.getElementById('hindi-s').style.background=' #000000 '
+        document.getElementById('hindi-s').style.background='272727 '
         document.getElementById('hindi-s').style.color='#ffffff'
         document.getElementById('hindi-s').style.textShadow='none'
         document.getElementById('hindi-s').style.fontSize='bold'
@@ -44,7 +44,7 @@
         document.getElementById('hindi-s').style.fontSize=''
     }
     if(e.checked==true){
-        document.getElementById('eng-s').style.background=' #000000'
+        document.getElementById('eng-s').style.background=' #272727'
         document.getElementById('eng-s').style.color='#ffffff'
         document.getElementById('eng-s').style.textShadow='none'
         document.getElementById('eng-s').style.fontSize='bold'
@@ -55,7 +55,7 @@
         document.getElementById('eng-s').style.fontSize=''
     }
     if(e.checked==true){
-        document.getElementById('punjabi-s').style.background=' #000000'
+        document.getElementById('punjabi-s').style.background=' #272727'
         document.getElementById('punjabi-s').style.color='#ffffff'
         document.getElementById('punjabi-s').style.textShadow='none'
         document.getElementById('punjabi-s').style.fontSize='bold'
@@ -111,6 +111,6 @@ document.getElementById('nav3').style.visibility='hidden'
 else{document.getElementById('nav3').style.visibility=''
 }
 if(e.checked==true){
-    document.getElementById('footer').style.background='#000000'
+    document.getElementById('footer').style.background='#272727'
     }
 }  
