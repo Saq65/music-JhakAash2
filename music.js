@@ -77,7 +77,7 @@
        for(u=0;u<elm.length;u++){
         elm[u].style.background='#121212 ';
         elm[u].style.color='white'
-        elm[u].style.boxShadow='2px 1px 1px white inset'
+        elm[u].style.boxShadow='2px 1px 1px white outset'
         elm[u].style.fontfamily='arial'
        }
     }else{  
