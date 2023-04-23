@@ -99,4 +99,15 @@ document.getElementById('nav1').style.visibility='hidden'
 }
 else{document.getElementById('nav1').style.visibility=''
 }
+if(e.checked==true){
+document.getElementById('nav2').style.visibility='hidden'
+}
+else{document.getElementById('nav2').style.visibility=''
+}
+
+if(e.checked==true){
+document.getElementById('nav3').style.visibility='hidden'
+}
+else{document.getElementById('nav3').style.visibility=''
+}
 }  
