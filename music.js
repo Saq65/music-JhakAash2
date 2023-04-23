@@ -96,6 +96,6 @@ function DarkMode(a) {
      }
 if(e.checked==true){
 document.getElementById('nav1').style.Visibility='hidden'
-}else{document.getElementById('nav1').style.Visibility='visible'
+}else{document.getElementById('nav1').style.Visibility=''
 }
 }  
