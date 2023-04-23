@@ -26,7 +26,7 @@ function DarkMode(a) {
     if(e.checked==true){
         const tr= document.querySelectorAll('.hbtn')
          for(o=0;o<tr.length;o++){
-             tr[o].style.background='#C7C2C2'
+             tr[o].style.background='black'
          }
      }
      if(e.checked==true){
