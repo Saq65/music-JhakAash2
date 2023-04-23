@@ -10,6 +10,8 @@
 
         body {
             background-color: rgb(199, 194, 194);
+            scroll-behavior: smooth;
+            transition:2s;
         }
 
         .header {
