@@ -7,7 +7,9 @@
             margin: 0px;
             padding: 0px;
         }
-
+.dark{
+Background-color:#1D1D1D;
+}
         body {
             background-color: rgb(199, 194, 194);
             scroll-behavior: smooth;
