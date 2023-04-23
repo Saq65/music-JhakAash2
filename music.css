@@ -89,7 +89,7 @@ Background-color:#1D1D1D;
 
         .container2 {
             display: flex;
-            justify-content: space-evenly;
+            justify-content: Space-around;
         }
 
         .hbtn {
