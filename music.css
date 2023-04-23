@@ -157,7 +157,7 @@ Background-color:#1D1D1D;
                 height: 70px;
                 width: 210px;
                 padding: 10px;
-                margin: 20px;
+                margin: 40px;
             }
 
             div#hindi li {
@@ -169,8 +169,7 @@ Background-color:#1D1D1D;
                 font-weight: 500;
                 font-family: cursive;
                 cursor: pointer;
-                gap:5px;
-                Margin:10px;
+                
             }
 
             .hbtn {
