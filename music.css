@@ -157,7 +157,7 @@ audio {
 
     #hindi {
         height: 50px;
-        width: 260px;
+        width: 265px;
         padding: 10px;
         margin: 30px;
         position: relative;
@@ -176,7 +176,7 @@ audio {
         bottom: 90%;
         position: relative;
         width: 70%;
-        left: 35%;
+        left: 32%;
     }
    
     .hbtn {
@@ -245,7 +245,7 @@ audio {
         height: 40px;
         width: 4.1rem;
         position: relative;
-        bottom: 115%;
+        bottom: 125%;
         left: 5%;
         border: 1px solid snow;
     }
